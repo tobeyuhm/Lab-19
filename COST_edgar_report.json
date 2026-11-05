@@ -1,0 +1,156 @@
+{
+  "ticker": "COST",
+  "cik": "0000909832",
+  "units": "USD millions",
+  "rows": [
+    {
+      "fiscal_year_end": "2022-08-28",
+      "values": {
+        "revenue": 226954.0,
+        "net_income": 5844.0,
+        "operating_cash_flow": 7392.0,
+        "capital_spending": 3891.0,
+        "equity": 20642.0,
+        "assets_current": 32696.0,
+        "liabilities_current": 31998.0,
+        "liabilities": 43519.0
+      },
+      "tags": {
+        "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "net_income": "NetIncomeLoss",
+        "operating_cash_flow": "NetCashProvidedByUsedInOperatingActivities",
+        "capital_spending": "PaymentsToAcquirePropertyPlantAndEquipment",
+        "equity": "StockholdersEquity",
+        "assets_current": "AssetsCurrent",
+        "liabilities_current": "LiabilitiesCurrent",
+        "liabilities": "Liabilities"
+      },
+      "roe": 28.311210154054837,
+      "owner_earnings": 3501.0,
+      "current_ratio": 1.0218138633664604,
+      "liabilities_to_equity": 2.1082743920162774
+    },
+    {
+      "fiscal_year_end": "2023-09-03",
+      "values": {
+        "revenue": 242290.0,
+        "net_income": 6292.0,
+        "operating_cash_flow": 11068.0,
+        "capital_spending": 4323.0,
+        "equity": 25058.0,
+        "assets_current": 35879.0,
+        "liabilities_current": 33583.0,
+        "liabilities": 43936.0
+      },
+      "tags": {
+        "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "net_income": "NetIncomeLoss",
+        "operating_cash_flow": "NetCashProvidedByUsedInOperatingActivities",
+        "capital_spending": "PaymentsToAcquirePropertyPlantAndEquipment",
+        "equity": "StockholdersEquity",
+        "assets_current": "AssetsCurrent",
+        "liabilities_current": "LiabilitiesCurrent",
+        "liabilities": "Liabilities"
+      },
+      "roe": 25.10974539069359,
+      "owner_earnings": 6745.0,
+      "current_ratio": 1.0683679242473871,
+      "liabilities_to_equity": 1.7533721765504031
+    },
+    {
+      "fiscal_year_end": "2024-09-01",
+      "values": {
+        "revenue": 254453.0,
+        "net_income": 7367.0,
+        "operating_cash_flow": 11339.0,
+        "capital_spending": 4710.0,
+        "equity": 23622.0,
+        "assets_current": 34246.0,
+        "liabilities_current": 35464.0,
+        "liabilities": 46209.0
+      },
+      "tags": {
+        "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "net_income": "NetIncomeLoss",
+        "operating_cash_flow": "NetCashProvidedByUsedInOperatingActivities",
+        "capital_spending": "PaymentsToAcquirePropertyPlantAndEquipment",
+        "equity": "StockholdersEquity",
+        "assets_current": "AssetsCurrent",
+        "liabilities_current": "LiabilitiesCurrent",
+        "liabilities": "Liabilities"
+      },
+      "roe": 31.187029040724752,
+      "owner_earnings": 6629.0,
+      "current_ratio": 0.965655312429506,
+      "liabilities_to_equity": 1.9561849123698247
+    },
+    {
+      "fiscal_year_end": "2025-08-31",
+      "values": {
+        "revenue": 275235.0,
+        "net_income": 8099.0,
+        "operating_cash_flow": 13335.0,
+        "capital_spending": 5498.0,
+        "equity": 29164.0,
+        "assets_current": 38380.0,
+        "liabilities_current": 37108.0,
+        "liabilities": 47935.0
+      },
+      "tags": {
+        "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "net_income": "NetIncomeLoss",
+        "operating_cash_flow": "NetCashProvidedByUsedInOperatingActivities",
+        "capital_spending": "PaymentsToAcquirePropertyPlantAndEquipment",
+        "equity": "StockholdersEquity",
+        "assets_current": "AssetsCurrent",
+        "liabilities_current": "LiabilitiesCurrent",
+        "liabilities": "Liabilities"
+      },
+      "roe": 27.770539020710466,
+      "owner_earnings": 7837.0,
+      "current_ratio": 1.0342783227336423,
+      "liabilities_to_equity": 1.6436359895761898
+    },
+    {
+      "fiscal_year_end": "2026-08-30",
+      "values": {
+        "revenue": 303154.0,
+        "net_income": 9226.0,
+        "operating_cash_flow": 15817.0,
+        "capital_spending": 6435.0,
+        "equity": 35803.0,
+        "assets_current": 46582.0,
+        "liabilities_current": 43952.0,
+        "liabilities": 53242.0
+      },
+      "tags": {
+        "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "net_income": "NetIncomeLoss",
+        "operating_cash_flow": "NetCashProvidedByUsedInOperatingActivities",
+        "capital_spending": "PaymentsToAcquirePropertyPlantAndEquipment",
+        "equity": "StockholdersEquity",
+        "assets_current": "AssetsCurrent",
+        "liabilities_current": "LiabilitiesCurrent",
+        "liabilities": "Liabilities"
+      },
+      "roe": 25.768790324833112,
+      "owner_earnings": 9382.0,
+      "current_ratio": 1.0598380050964689,
+      "liabilities_to_equity": 1.4870820880931765
+    }
+  ],
+  "checks": {
+    "ROE of 15% or more every year": "pass",
+    "Owner earnings positive every year": "pass",
+    "Owner earnings grew, first year to last": "pass"
+  },
+  "graham_checks": {
+    "Current ratio of 2 or more, latest year": "fail",
+    "Net income positive every year": "pass",
+    "Net income grew, first year to last": "pass"
+  },
+  "burry_checks": {
+    "Operating cash flow at least net income every year": "pass",
+    "Liabilities no more than twice equity, latest year": "pass"
+  }
+}
